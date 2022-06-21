@@ -1,0 +1,3 @@
+requests
+google-python-cloud-debugger
+google-cloud-logging

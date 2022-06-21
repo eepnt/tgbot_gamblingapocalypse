@@ -1,0 +1,5 @@
+polling:
+  - gcloud functions deploy ga_weekly_poll --entry-point weekly_poll --trigger-http --region asia-northeast1 --memory 128MB --runtime python39
+
+tgbot:
+  - gcloud app deploy

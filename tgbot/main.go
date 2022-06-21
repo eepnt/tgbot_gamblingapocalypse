@@ -109,7 +109,7 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprint(w, string(resp))
 }
 
-const start = "I'm written by eepnv. Please support by donating me your code.\n https://github.com/eepnt/tgbot_mktovw"
+const start = "I'm written by eepnv. Please support by donating me your code.\n https://github.com/eepnt/tgbot_gamblingapocalypse"
 const help = "Exchange code:\nBFX: Bitfinex\nFFA: FreeForexApi"
 const settings = "I have nothing to set yet"
 const default_msg = "i can't understand what you mean"
